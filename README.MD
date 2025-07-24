@@ -8,7 +8,7 @@ Um piano interativo feito com HTML, CSS e JavaScript. Toca e diverte-te\!
 
 ## 🚀 Demonstração
 
-[https://jcquadros.github.io/piano/](https://www.google.com/search?q=https://jcquadros.github.io/piano/)
+[https://jcquadros.github.io/piano/](https://jcquadros.github.io/piano/)
 
 
 ## 📸 Imagem
